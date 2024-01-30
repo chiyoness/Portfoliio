@@ -40,4 +40,4 @@ Contributions are welcome! If you have any suggestions, bug reports, or feature 
 This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
-For any inquiries or collaborations, please contact me at [your-email@example.com](mailto:your-email@example.com).
+For any inquiries or collaborations, please contact me at [joshuabbmahinay@gmail.com].
