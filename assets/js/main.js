@@ -264,9 +264,7 @@
     amount = 0,
     mouse = { x: 0, y: 0 },
     radius = 1;
-
-  var colors = ["#468966", "#FFF0A5", "#FFB03B", "#B64926", "#8E2800"];
-
+    var colors = ["#004225", "#013220", "#022F1D", "#032B1A", "#042718"];
   var copy = document.querySelector("#copy");
 
   var ww = canvas.width = window.innerWidth;
